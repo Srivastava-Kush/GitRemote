@@ -3,3 +3,4 @@ Process data
 
 Create an avatar for user
 login and logout
+add privacy
