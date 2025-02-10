@@ -1,6 +1,6 @@
 add or remove users
 change the rules
 modifiy database
-closing the connection
+closing the database connection
 stop the working temporarily
 manage harsh's security
